@@ -56,6 +56,7 @@ git merge branch2
 git diff branch1
 git diff branch2
 
+Add new file and 
 git push origin branch1
 git push origin branch2
 
